@@ -1,1 +1,1 @@
-# wages-system
+# school-wages-system
